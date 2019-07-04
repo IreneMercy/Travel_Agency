@@ -1,0 +1,27 @@
+h1,h2,h3,h4,p{
+  text-align: center;
+}
+img{
+  margin-left:38%;
+  width:300px;
+}
+
+.tropical{
+  font-family: fantasy;
+}
+h4.tropical{
+  color: #f7325e
+}
+p.tropical{
+  color:#7dc410
+}
+
+.popular{
+  font-family: fantasy;
+}
+h4.popular{
+  color:teal;
+}
+p.popular{
+  color:turquoise;
+}
